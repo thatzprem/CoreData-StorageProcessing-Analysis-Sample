@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B2571A17-1B0C-426D-9CF3-08287D8B9F9E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CoreDataStoragePOC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>52b6b917-2bed-416c-a997-7d548c9729a0</key>
+		<string>https://svn.happiestminds.com/svn/tuicsm01</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/MobilePOC/CoreDataJsonStorage_POC/CoreDataStoragePOC.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52b6b917-2bed-416c-a997-7d548c9729a0</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>52b6b917-2bed-416c-a997-7d548c9729a0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>52b6b917-2bed-416c-a997-7d548c9729a0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tuicsm01</string>
+		</dict>
+	</array>
+</dict>
+</plist>
